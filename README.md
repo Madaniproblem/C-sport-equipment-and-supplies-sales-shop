@@ -1,4 +1,4 @@
-# Description 
+# Sport equipment and supplies shop with C++
 The program describe the sales flow in a store
 1. In the program there is identity registration,list items,items discount if user is student and also user can choosing items category.
 2. Transaction in the program counted from final price that user already bought
